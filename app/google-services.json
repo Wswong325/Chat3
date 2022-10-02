@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "711916279227",
+    "firebase_url": "https://chat1-e0728-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat1-e0728",
+    "storage_bucket": "chat1-e0728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:7c0052115b3167dd39609e",
+        "android_client_info": {
+          "package_name": "com.example.counselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:a77c6783b671b6a439609e",
+        "android_client_info": {
+          "package_name": "com.example.counselling2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:9805e4e4cbabde4f39609e",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:8e99e0f8e84e887e39609e",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.chat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:cd8b19bd4fb9661739609e",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711916279227:android:f37756a6d0e951df39609e",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.chat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIZlsw450vqJCWG6pE4cU1_YjCzC7n1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711916279227-rj5aeho1ambe6hp73q4lk97gcrg7dukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
